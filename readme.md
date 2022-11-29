@@ -4,7 +4,7 @@
 
 This java program is a simulation of a basketball sports league. It presents the sporting and financial events of the clubs and the league. The simulation happens from match to match with the different periods of a season, matches, events (all star game), transfers (draft). The level of the teams is linked to the level of the players which changes during the seasons. Each club has a history of its expenses and in particular the salaries of the players who are presented with their photo and their statistics.
 
-See : video
+See : [video](https://raw.githubusercontent.com/avs-projects/League-Simulator/main/video/league_presentation.mp4)
 
 ## How to run the project 
 
